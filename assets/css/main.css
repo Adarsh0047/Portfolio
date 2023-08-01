@@ -2101,7 +2101,7 @@ input, select, textarea {
 /* Articles */
 
 	body > article {
-		margin-bottom: 0;
+		margin-bottom: 5;
 	}
 
 	#top {
@@ -2298,7 +2298,7 @@ input, select, textarea {
 				text-align: center;
 				font-size: 1.2em;
 				width: 100%;
-				padding: 1em 0 1em 0;
+				padding: 100em 100em 100em 100em;
 			}
 
 				input[type="button"].large,
