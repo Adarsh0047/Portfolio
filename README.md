@@ -1,7 +1,7 @@
-# Portfolio
+# Personal Portfolio
 
-A personal portfolio website.
+A responsive, single-page portfolio website built with HTML, CSS, and JavaScript.
 
-## About
+The page introduces Adarsh, describes education and work experience, and links to selected projects and contact information. It is based on the Miniport template from HTML5 UP; see `README.txt` and `LICENSE.txt` for the template's attribution and license.
 
-This repository contains the source for the portfolio site. The website files define its pages, styling, and deployed experience.
+Open `index.html` in a browser to preview the site.
